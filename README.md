@@ -1,6 +1,6 @@
 # mud-filtrate-invasion-modeling
 Modeling of mud filtrate invasion into core samples.
-Both dynamic and static linear filer-cake model have been established.
+Both dynamic and static linear filter-cake model have been established.
 
 1. The filtrate concentration profile can be drawn for 14 sets of cores separately within the program.
 
